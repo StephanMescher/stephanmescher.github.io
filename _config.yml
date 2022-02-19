@@ -10,7 +10,7 @@ locale                   : "de-DE"
 title                    : "Stephan Mescher"
 title_separator          : "-"
 name                     : &name "Stephan Mescher"
-description              : &description "personal description"
+description              : &description "Postdoctoral Researcher in Mathematics"
 url                      : https://stephanmescher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stephanmescher/stephanmescher.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Stephan Mescher"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher in Mathematics"
   location         : "Halle (Saale)"
-  employer         :
+  employer         : "Martin Luther University of Halle-Wittenberg"
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
